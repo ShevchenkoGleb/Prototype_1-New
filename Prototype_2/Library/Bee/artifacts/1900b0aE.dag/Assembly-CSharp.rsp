@@ -425,6 +425,7 @@
 -analyzer:"F:/Unity/Unity Hub/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"F:/Unity/Unity Hub/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/DestroyOutOfBounds.cs"
+"Assets/Scripts/DetectCollisions.cs"
 "Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/SpawnManager.cs"
