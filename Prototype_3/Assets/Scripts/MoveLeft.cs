@@ -21,7 +21,7 @@ public class MoveLeft : MonoBehaviour
 
         if (transform.position.x < leftBound && gameObject.CompareTag("Obstacle"))
         {
-            Destroy(GameObject);
+            Destroy(gameObject);
         }
     }
 }
